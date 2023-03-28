@@ -1,0 +1,51 @@
+body {
+    font-family: "Bebas Neue", cursive;
+}
+body {
+  background-image:url("https://i.ytimg.com/vi/LpSe6zut3ME/maxresdefault.jpg") ;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+ 
+#mytext1{
+  color:black;
+  font-size: 50px;
+}
+#mytext2{
+  color:black;
+  font-size: 50px;
+}
+#mytext3{
+  color:black;
+  font-size: 50px;
+}
+#mytext4{
+  color:black;
+  font-size: 50px;
+}
+#mytext5{
+  color:black;
+  font-size: 50px;
+}
+

@@ -1,0 +1,45 @@
+html {
+    color: lightgreen;
+    background-image: url("");
+  }
+  a {
+    color: lightgreen;
+  }
+  p {
+    font-size: 25px;
+  }
+  a {
+  }
+  p {
+    color: lightgreen;
+  }
+  span {
+    font-size: 50px;
+  }
+  ul {
+    font-size: 25px;
+  }
+  ol {
+    font-size: 25px;
+  }
+  body {
+    font-family: "Bebas Neue", cursive;
+  }
+  table {
+    font-size: 25px;
+  }
+  table, th, td {
+border: 1px solid black;
+}
+#First {
+    background-color: darkgreen;
+}
+#Second {
+    background-color: darkgreen;
+}
+#Third {
+    background-color: darkgreen;
+}
+#Fourth {
+    background-color: darkgreen;
+}
